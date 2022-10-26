@@ -23,6 +23,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>01-maven-web-application</finalName>
+    <finalName>01-maven-web-app</finalName>
   </build>
 </project>
