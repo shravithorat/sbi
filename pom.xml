@@ -5,7 +5,7 @@
   <artifactId>01-maven-web-app</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>01-maven-web-app Maven Webapp</name>
+  <name>01-maven-web-app Maven Webapplication</name>
   <url>http://maven.apache.org</url>
   <dependencies>
   <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
@@ -23,6 +23,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>01-maven-web-application</finalName>
+    <finalName>01-maven-web-app</finalName>
   </build>
 </project>
